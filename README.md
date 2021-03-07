@@ -31,6 +31,7 @@ The API key is hidden in gradle.properties and we access the key via the buildco
 
 
 Finally the file containing the data is protected by the phone's system.
-Moreover at the creation of the file a "private mode" is specified. Therefore the access to this file cannot be done by mainstream ways
+Moreover at the creation of the file a "private mode" is specified. Therefore the access to this file cannot be done by mainstream ways. 
+
 ![image](https://user-images.githubusercontent.com/64968589/110250219-74f6c880-7f7a-11eb-8324-4691dc0ed002.png)
 
