@@ -6,6 +6,7 @@ This login page is the one that is launched when starting the application.
 
 
 To get access to his bank informations, the app user has to fill the two EditText boxes with his ID and password. 
+Here, they are set to the following value: ID:"id"  Password: "password"
 After 5 failed tries, the login button locks and it quits the application for security. 
 
 ![image](https://user-images.githubusercontent.com/64968589/110250187-542e7300-7f7a-11eb-9f05-772e0f401860.png)
