@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/journal_item"
+        android:title="Journal" />
+    <item android:id="@+id/parametre_item"
+        android:title="Paramètres" />
+    <item android:id="@+id/apropos_item"
+        android:title="A propos" />
+</menu>
